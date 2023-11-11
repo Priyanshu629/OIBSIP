@@ -1,0 +1,35 @@
+*{
+padding: 0px;
+margin: 0px;
+box-sizing: border-box;
+background-color: aliceblue;
+}
+
+html,body{
+width: 100%;
+height: 100vh;
+}
+main{
+    width: 100%;
+    height: 100vh;
+}
+header{
+   width: 50%;
+   margin: auto;
+   padding: 10px;
+   text-align: center;
+   background-image: linear-gradient(red,yellow);
+}
+img{
+    height: 350px;
+}
+ul{
+    padding: 20px;
+    font-size: 20px;
+    color: rgb(3, 64, 9);
+    font-style: italic;
+    font-weight: bold;
+}
+h3{
+    color:brown;
+}
